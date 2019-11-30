@@ -5,6 +5,7 @@
 build
 var
 result
+inputs
 base*
 *.qcow2
 sigs
